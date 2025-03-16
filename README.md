@@ -1,4 +1,3 @@
-## Hi there 👋, my name is Muhammad Haroon (codexharoon).
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/codexharoon">Muhammad Haroon</a> (codexharoon).</h1>
 
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codexharoon)
